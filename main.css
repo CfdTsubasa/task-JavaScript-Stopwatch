@@ -1,0 +1,11 @@
+.time {
+  display: flex;
+  margin-left: 30px;
+  font-size: 30px;
+}
+
+.buttons {
+  margin-top: 20px;
+  margin-left: 10px;
+  justify-content: space-around;
+}
